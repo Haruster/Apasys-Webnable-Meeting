@@ -1,2 +1,2 @@
-# Kinesys-Pwnable-FTZ
-FTZ Pwnable 연습
+# Kinesys-Webnable-Meeting
+Christmas CTF 2019 Webnable Meeting WriteUp
